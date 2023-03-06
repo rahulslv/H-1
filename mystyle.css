@@ -1,0 +1,133 @@
+ *{
+    padding: o;
+    margin: 0;
+ }
+ body{
+    background-image: url(./hand-painted-watercolor-pastel-sky-background_23-2148902771.avif);
+    background-repeat:repeat;
+     /* background-size: cover;   */
+    border: 10px groove green;
+    height: 1800px;
+}  
+.div1{
+    color:white;
+    background: black;
+    border: 9px solid red;
+    text-align: center;
+    margin-top:20PX 50PX 20PX 50px;
+    border-radius: 50px; 
+    height: 100px;
+    width:300px;
+    padding: 20px;
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    font-size: 200%;
+}
+
+.div2{
+    color:white;
+    background: black;
+    border: 9px solid red;
+    text-align: center; 
+    margin-top:20PX 50PX 20PX 50px;
+    border-radius: 100px;  
+    height: 50px;
+    width: 500px;
+    padding: 20px ;
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    font-size: 180%;
+}
+
+.div3{
+    color:white;
+    background: black;
+    border: 9px solid red;
+    text-align: center;
+    margin-top:20PX 50PX 20PX 50px;
+    border-radius: 50px; 
+    height: 100px;
+    width: 300px;
+    padding: 20px ;
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    font-size: 180%;
+}
+.form{
+    border: 9px dashed red;
+    background-color: white;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    width: 30%;
+    height: 100%;
+    /* transform: translateX(700px); */
+    /* transform: translateY(500px); */
+    position: absolute;
+    top: 45%;
+    right: 20%;
+
+}
+ .rate1{
+    
+    background-color: aqua;
+    color: black;
+    border: 10px solid rgb(113, 113, 128);
+    border-radius: 100%;
+    width: 300px;
+    height:300px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    position: absolute;
+    top: 80%;
+    font-size: 110%;
+    
+   
+    
+} 
+.menu{
+    color:white;
+    background: black;
+    border: 9px solid red;
+    text-align: center;
+    margin-top:20PX 50PX 20PX 50px;
+    border-radius: 100px;  
+    height: 50px;
+    width: 500px;
+    padding: 20px ;
+    position: absolute;
+    top: 160%;
+    left: 30%; }
+    /* .h{
+        position: absolute;
+        top: 162%;
+    } */
+
+.parent{
+    width: 100%; 
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+    top: 180%;
+}
+.menu1{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    text-align: center;
+    font-weight: bolder;
+    color: blue;
+    border: 5px solid green;
+    border-radius: 50px;
+    margin: 30px; 
+
+
+    
+}
